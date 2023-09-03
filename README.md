@@ -1,1 +1,1 @@
-# Drum-kit-using-java-script
+# Drum-kit-java-script
